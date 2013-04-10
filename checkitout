@@ -4,9 +4,9 @@
 require 'r-fxxk'
 
 class CheckItOut < Brainfuck
-  nxt 'YO!'
-  inc 'HO!'
-  prv 'COME ON!'
+  nxt 'COME ON!'
+  inc 'YO!'
+  prv 'HO!'
   dec 'WOW!'
   opn 'ﾁｪｹﾗｰ!'
   cls 'YEAH!'
