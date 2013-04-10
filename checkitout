@@ -1,0 +1,17 @@
+#!/usr/bin/env ruby
+# -*- coding: utf-8 -*-
+
+require 'r-fxxk'
+
+class CheckItOut < Brainfuck
+  nxt 'YO!'
+  inc 'HO!'
+  prv 'COME ON!'
+  dec 'WOW!'
+  opn 'ﾁｪｹﾗｰ!'
+  cls 'YEAH!'
+  put 'AHA!?'
+  get 'SO COOL!'
+end
+
+puts CheckItOut.new.fuck(ARGF.read)
